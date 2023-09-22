@@ -1,6 +1,6 @@
 // Global variables
 
-var 
+avenger
 
 	// Structure
 	Gate 		= 'Gate',
