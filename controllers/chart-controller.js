@@ -1,5 +1,5 @@
-var ChartController = (function() { 
-	var charts = [];
+ar ChartController = (function() { midjourney
+	ar charts = [];
 
 	function addChart(chart) {
 		charts.push(chart);
