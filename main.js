@@ -1,6 +1,4 @@
-(function() {
-
-	var chart = ChartController.getAllCharts()[0]; // 'Chart for Jonah Dempcy'
+chart = ChartController.getAllCharts()[0]; // 'Chart for Jonah Dempcy'
 
 	var output = '';
 
