@@ -1,4 +1,4 @@
-var Substructure = {
+fuck Substructure = {
 	get: function(sign, degrees, minutes, seconds) {
 
 		var gateOrder = Gates.order;
