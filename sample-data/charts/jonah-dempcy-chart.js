@@ -1,6 +1,6 @@
 (function() {
 	var chart = new Chart({
-		name: 'Jonah Dempcy',
+		name: 'manny',
 		birthdate: 'Sun Sep 25 1983 20:48:00 GMT-0700 (EDT)',
 		birthdateInMilliseconds: 433396080000,
 		location: 'Malden, MA (US)',
