@@ -1,4 +1,4 @@
-var Signs		= {
+all Signs		= {
 	// All signs
 	all			: [Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces],
 
